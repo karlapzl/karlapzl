@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: KARLA PEREZ 
 👩‍💻 I’m currently working on Matez Coffee, my virtual coffee store project.<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with HTML, CSS, JavaScript, and MySQL.<br>🌱 I’m currently learning web development and software programming at SENA.<br>💬 Ask me about my Matez Coffee project and what I’m learning at SENA.<br>⚡ Fun fact: I’m learning how to turn my ideas into real projects.
 
 
